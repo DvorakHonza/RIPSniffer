@@ -4,17 +4,6 @@ Projekt vznikl v rámci předmětu Síťové aplikace se skládá ze sady
 nástrojů pro odchytávání RIPv1, RIPv2 a RIPng paketů, dále pak vytváření
 a podvrhování RIPng response a request zpráv.
 
-Odevzdané soubory:
-
-* myripsniffer.c
-* myripresponse.c
-* myriplib.c
-* myriplib.h
-* myriprequest.c
-* manual.pdf
-* README
-* Makefile
-
 Použití:
 
 * Přepínače v {} jsou volitelné.
